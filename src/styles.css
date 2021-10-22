@@ -1,0 +1,20 @@
+
+:root {
+  background-color: #171717;
+}
+
+* {
+    font-family: 'DM Sans', sans-serif;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
